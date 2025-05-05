@@ -1,3 +1,5 @@
 Current status: basic frontend and backend are now setup and connected.
 Next step: work on C++ script to simulate classical physics.
 --> Will eventually move into simulating quantum physics, but for now let's get started with classical.
+
+# will complete next step by 5/6
